@@ -1,0 +1,8 @@
+## AD images
+ad/
+
+## no prod
+donotgoprod/
+
+## paper-images
+papers/*/images/

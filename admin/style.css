@@ -1,0 +1,24 @@
+#anz-table, #randomiseBtn, #sel-table {
+  display: none;
+}
+select, button,  input[type='checkbox'] {
+  cursor: pointer;
+}
+.last-td {
+  text-align: center !important;
+}
+#sin-button {
+  border-color: #53b9fd !important;
+  border-width: 2px !important;
+  font-weight: bold !important;
+  background-color: #53b9fd;
+}
+.win {
+  background-color: #fbc72c !important;
+}
+.won {
+  background-color: red !important;
+}
+.hidden {
+  display: none;
+}

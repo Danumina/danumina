@@ -1,0 +1,5 @@
+ErrorDocument 404 http://localhost:81/denumina/404.php
+ErrorDocument 500 http://example.com/500/
+
+RewriteEngine On
+RewriteBase /

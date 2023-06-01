@@ -1,0 +1,32 @@
+
+.main-content {
+  padding-top: 60px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.menu-bar {
+  top: 0;
+  position: -webkit-fixed;
+  position: fixed;
+  width: 100%;
+  background-color: #c3f1ff;
+  z-index : 1;
+  padding: 10px;
+}
+
+.act-menu-bar {
+  background-color: #cc9edd;
+}
+
+#home-0th-ad .box {
+  background-color: #53b9fd;
+}
+
+#first-ad .box {
+  background-color: #94d7a2;
+}
+
+#second-ad .box {
+  background-color: #f9d693;
+}

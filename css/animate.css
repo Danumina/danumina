@@ -1,0 +1,98 @@
+.logo-link {
+  font-family: 'astro11regular';
+  color: white;
+  font-weight: lighter;
+  font-size: 3rem;
+  padding-bottom: 10px;
+  text-shadow: 2px 2px 8px #000000c4;
+}
+
+.logo-link-foot {
+  font-family: 'astro11regular';
+  color: #fff;
+  font-weight: lighter;
+  font-size: 2rem;
+  text-shadow: 2px 2px 8px #000000c4;
+  /* padding-bottom: 10px; */
+}
+
+.logo-link-foot:hover {
+  color: #fff !important;
+}
+
+.logo-link:hover {
+  -webkit-text-fill-color: white;
+  -webkit-transform: scale(1.25);
+  -ms-transform: scale(1.25);
+  transform: scale(1.25);
+  font-weight: lighter;
+  transition-timing-function: ease;
+  text-shadow: 2px 2px 8px #000000c4;
+}
+
+.foot-div {
+  padding-top: 0 !important;
+}
+
+.maintile:hover,
+.maintile:focus{
+  -webkit-transform: scale(1.03);
+  -ms-transform: scale(1.03);
+  transform: scale(1.03);
+  transition-timing-function: 1s ease;
+}
+
+input[type="text"]::placeholder {
+  color: #2b292d;
+  /* font-family: "Work Sans"; */
+}
+
+/* quiz text sliding */
+/* .qtext1, .qtext2 {
+  display:inline-block;
+  overflow:hidden;
+  white-space:nowrap;
+}
+
+.qtext1 {
+  animation: showup 7s infinite;
+}
+
+.qtext2 {
+  width:0px;
+  animation: reveal 7s infinite;
+}
+
+.qtext2 span {
+  margin-left:-800px;
+  animation: slidein 7s infinite;
+}
+
+@keyframes showup {
+    0% {opacity:0;}
+    20% {opacity:1;}
+    80% {opacity:1;}
+    100% {opacity:0;}
+}
+
+@keyframes slidein {
+    0% { margin-left:-800px; }
+    20% { margin-left:-800px; }
+    35% { margin-left:0px; }
+    100% { margin-left:0px; }
+}
+
+@keyframes reveal {
+    0% {opacity:0;width:0px;}
+    20% {opacity:1;width:0px;}
+    30% {width:800px;}
+    80% {opacity:1;}
+    100% {opacity:0;width:800px;}
+} */
+
+
+/* p {
+  font-size:12px;
+  color:#999;
+  margin-top:200px;
+} */

@@ -1,0 +1,5 @@
+ErrorDocument 404 https://www.denumina.lk/404.php
+ErrorDocument 500 https://www.denumina.lk/404.php
+
+RewriteEngine On
+RewriteBase /
